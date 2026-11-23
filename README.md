@@ -15,7 +15,7 @@ Desenvolvo ferramentas internas de TI integrando GLPI, Chatwoot, WhatsApp e AD �
 
 ### 🧩 Especialidades
 
-- 🔌 **Integrações**: GLPI, Chatwoot, WhatsApp (Evolution API), Active Directory e Keycloak, Notion
+- 🔌 **Integrações**: GLPI, Chatwoot, WhatsApp (Evolution API), Active Directory, Notion
 - 🤖 **Automação**: rotinas de suporte, cobrança de pendências e geração de relatórios em Python e PowerShell
 - 🖥️ **Infraestrutura**: Linux, Windows, Docker, implantação de imagens em rede e acesso remoto
 - 📊 **Dados**: cruzamento de fontes diferentes e relatórios em HTML, XLSX e CSV
@@ -49,25 +49,22 @@ Desenvolvo ferramentas internas de TI integrando GLPI, Chatwoot, WhatsApp e AD �
 ### 🔧 Ferramentas internas
 
 - **Plugin Chatwoot ↔ GLPI**: transforma conversas de WhatsApp em chamados. Tem botão "Iniciar conversa", visibilidade por perfil e escala de plantão sincronizada com o Planejamento do GLPI · `PHP` `JS`
-- **Gestor de Software**: instala pacotes do catálogo em lote por unidade, com prévia, idempotência e auditoria. Faz login pelo gateway do AD (Keycloak) · `Go`
-- **MAIA Auto**: automação de rotinas do suporte em cima da API do GLPI, já na versão 2.11 · `Python`
+- **Gestor de Software**: controle de versão de software de um parque de equipamentos. Instala e remove programas dos PCs em lote, com prévia, idempotência e auditoria de cada mudança · `Go`
+- **Cadastro automático de usuários**: na implantação de um sistema novo, importa os usuários por CSV e alimenta automaticamente uma base de conhecimento (wiki) com uma página para cada usuário criado
 - **Dash**: painel de chamados que se atualiza sozinho pelo Git e faz rollback se a versão nova falhar · `Python`
 - **Relatórios SGA**: relatórios automatizados do sistema SGA · `Python`
-- **Automação de chamados**: categorias, formulários e regras de roteamento criados pela API REST do GLPI · `Python`
+- **Automação de chamados com IA**: lançamento de chamados e criação de regras de abertura, formulários e categorias por comandos em linguagem natural, direto pela IA · `Python`
 - **Rodada de cobrança**: levanta pendências por técnico e cobra pelo WhatsApp, via Evolution API em Docker · `Python` `PowerShell`
 
 ### 🧪 Scripts e dados
 
 - **Auditoria de impressoras**: pipeline que cruza 4 fontes de mais de 100 localidades e gera relatórios em HTML, XLSX e CSV · `Python`
 - **migrar_notion.py**: migra bancos, relações, blocos e links internos entre workspaces do Notion · `Python`
-- **Wake-on-LAN pela Alexa**: "Alexa, liga o computador do trabalho" · `PowerShell` `Batch`
 
 ### 🌐 Aqui no GitHub
 
 - [**Lentes**](https://thexarcano.github.io/camera): app web que usa as câmeras do iPhone que ainda funcionam quando a principal quebra. Funciona offline, grava vídeo e tem testes automatizados e CI · `JS` `PWA` `Playwright`
-- [coworking_backend](https://github.com/theXArcano/coworking_backend): API de um sistema de coworking · `Node.js`
 - [chaton2](https://github.com/theXArcano/chaton2): app de chat · `Flutter`
-- [ConexaoJavacomBD](https://github.com/theXArcano/ConexaoJavacomBD): aplicação Java conectada a banco de dados via JDBC · `Java` `SQL`
 
 ### 📊 GitHub Insights
 
