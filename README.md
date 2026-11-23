@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Mouta+%F0%9F%91%8B;Automa%C3%A7%C3%A3o+%2B+Integra%C3%A7%C3%B5es+%2B+Ferramentas+internas;Se+faz+duas+vezes%2C+automatiza." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Mouta+%F0%9F%91%8B;Automa%C3%A7%C3%A3o+%2B+Integra%C3%A7%C3%B5es+%2B+Ferramentas+internas;Se+faz+duas+vezes%2C+automatiza." alt="Typing SVG" />
 
 Desenvolvo ferramentas internas de TI integrando GLPI, Chatwoot, WhatsApp e AD · São Luís, MA
 
