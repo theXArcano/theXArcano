@@ -4,9 +4,47 @@
 
 Desenvolvo ferramentas internas de TI integrando GLPI, Chatwoot, WhatsApp e AD · São Luís, MA
 
-<img src="https://skillicons.dev/icons?i=python,go,php,js,nodejs,html,css,powershell,java,dart,flutter,mysql,docker,linux,git,gitlab&perline=16" />
-
 </div>
+
+### 💫 Sobre mim
+
+- 🔥 Trabalho com **TI no setor público**: suporte, infraestrutura e coordenação, do chamado aberto ao servidor no ar
+- ⚙️ Meu jeito de trabalhar cabe numa frase: **se faz duas vezes, automatiza**
+- 🔗 Gosto de fazer sistemas que não foram feitos um para o outro conversarem: helpdesk, WhatsApp, diretório de usuários e planilhas
+- 📱 Nas horas vagas faço apps que resolvem problemas meus, como o [Lentes](https://thexarcano.github.io/camera)
+
+### 🧩 Especialidades
+
+- 🔌 **Integrações**: GLPI, Chatwoot, WhatsApp (Evolution API), Active Directory e Keycloak, Notion
+- 🤖 **Automação**: rotinas de suporte, cobrança de pendências e geração de relatórios em Python e PowerShell
+- 🖥️ **Infraestrutura**: Linux, Windows, Docker, implantação de imagens em rede e acesso remoto
+- 📊 **Dados**: cruzamento de fontes diferentes e relatórios em HTML, XLSX e CSV
+- 🧱 **Software interno confiável**: atualização automática pelo Git, rollback, idempotência e auditoria
+
+### 🛠️ Tecnologias
+
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,go,php,js,java,dart,html,css" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,flutter" /></td>
+  </tr>
+  <tr>
+    <td><b>Bancos de dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra e scripts</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,windows,powershell,bash" /></td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,gitlab,github,githubactions,vscode,notion,md" /></td>
+  </tr>
+</table>
 
 ### 🔧 Ferramentas internas
 
@@ -26,10 +64,12 @@ Desenvolvo ferramentas internas de TI integrando GLPI, Chatwoot, WhatsApp e AD �
 
 ### 🌐 Aqui no GitHub
 
-- [**Lentes**](https://thexarcano.github.io/camera): app web que usa as câmeras do iPhone que ainda funcionam quando a principal quebra · `HTML` `JS`
+- [**Lentes**](https://thexarcano.github.io/camera): app web que usa as câmeras do iPhone que ainda funcionam quando a principal quebra. Funciona offline, grava vídeo e tem testes automatizados e CI · `JS` `PWA` `Playwright`
 - [coworking_backend](https://github.com/theXArcano/coworking_backend): API de um sistema de coworking · `Node.js`
 - [chaton2](https://github.com/theXArcano/chaton2): app de chat · `Flutter`
 - [ConexaoJavacomBD](https://github.com/theXArcano/ConexaoJavacomBD): aplicação Java conectada a banco de dados via JDBC · `Java` `SQL`
+
+### 📊 GitHub Insights
 
 <div align="center">
 
