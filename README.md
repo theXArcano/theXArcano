@@ -6,18 +6,18 @@
 
 ### 💫 Sobre mim
 
-- 🔥 Trabalho com **TI no setor público**: suporte, infraestrutura e coordenação, do chamado aberto ao servidor no ar
-- ⚙️ Meu jeito de trabalhar cabe numa frase: **se faz duas vezes, automatiza**
-- 🔗 Gosto de fazer sistemas que não foram feitos um para o outro conversarem: helpdesk, WhatsApp, diretório de usuários e planilhas
-- 📱 Nas horas vagas faço apps que resolvem problemas meus, como o [Lentes](https://thexarcano.github.io/camera)
+- Trabalho com **TI no setor público**: suporte, infraestrutura e coordenação, do chamado aberto ao servidor no ar
+- Meu jeito de trabalhar cabe numa frase: **se faz duas vezes, automatiza**
+- Gosto de fazer sistemas que não foram feitos um para o outro conversarem: helpdesk, WhatsApp, diretório de usuários e planilhas
+- Nas horas vagas faço apps que resolvem problemas meus, como o [Lentes](https://thexarcano.github.io/camera)
 
 ### 🧩 Especialidades
 
-- 🔌 **Integrações**: GLPI, Chatwoot, WhatsApp (Evolution API), Active Directory, Notion
-- 🤖 **Automação**: rotinas de suporte, cobrança de pendências e geração de relatórios em Python e PowerShell
-- 🖥️ **Infraestrutura**: Linux, Windows, Docker, implantação de imagens em rede e acesso remoto
-- 📊 **Dados**: cruzamento de fontes diferentes e relatórios em HTML, XLSX e CSV
-- 🧱 **Software interno confiável**: atualização automática pelo Git, rollback, idempotência e auditoria
+- **Integrações**: GLPI, Chatwoot, WhatsApp (Evolution API), Active Directory, Notion
+- **Automação**: rotinas de suporte, cobrança de pendências e geração de relatórios em Python e PowerShell
+- **Infraestrutura**: Linux, Windows, Docker, implantação de imagens em rede e acesso remoto
+- **Dados**: cruzamento de fontes diferentes e relatórios em HTML, XLSX e CSV
+- **Software interno confiável**: atualização automática pelo Git, rollback, idempotência e auditoria
 
 ### 🛠️ Tecnologias
 
